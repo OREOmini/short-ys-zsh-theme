@@ -22,7 +22,7 @@ With short-ys, you can:
 
 ## Preview
 
-![Screenshot](/Users/wangyunwen/Desktop/short-ys-zsh-theme/Screenshot.png)
+![preview](https://github.com/OREOmini/short-ys-zsh-theme/blob/master/Screenshot.png)
 
 
 
